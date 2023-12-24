@@ -1,2 +1,2 @@
 rootProject.name = "MultiDisplayInput"
-include ':app'
+include ':app', 'arm', 'arm-v7a', 'arm64', 'mips', 'x86', 'x86_64', 'armeabi-v7a'
